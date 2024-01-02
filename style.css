@@ -1,0 +1,224 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+.container1 {
+    width: 90%;
+    margin: 30 auto;
+}
+
+header {
+    background-color: #f9fbfc;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.search-bar {
+    float: right;
+}
+nav ul {
+    list-style: none;
+    margin: 10px;
+    padding: 0;
+    text-align: center;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+    
+}
+
+.hero {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/0/04/Air_University_Main_Campus%2C_Islamabad.jpg"); /* Replace with your image path */
+    background-size: cover;
+    height: 700px; 
+    text-align: center;
+}
+
+.hero-content {
+    position:absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 255, 255);
+}
+
+.hero h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+
+.societal-mission {
+    background-color: white;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 80px;
+    margin-top: 20px;
+}
+
+.campus-news{
+    background-color: rgb(175, 198, 213);
+    font-size: 20px;
+    text-align: center;
+    padding: 15%;
+    padding-top: 0%;
+    padding-bottom: 5%;
+}
+
+.card1{
+    width: 350px;
+    gap: 20%;
+}
+.card img {
+    height: 200px;
+}
+
+.card-body {
+    padding: 10px;
+}
+.card-title{
+    font-size: 20px;
+    height: 0cqmin;
+}
+.card-text{
+    font-size: 12px;
+    padding: 20px;
+}
+.set1{
+    margin-top: 5%;
+}
+
+.academics{
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-align: center;
+    padding: 14%;
+    padding-top: 0%;
+    padding-bottom: 5%;
+}
+.set2{
+    margin-top: 5%;
+}
+.six-schools{
+    font-size: bold;
+    padding-left:5% ;
+}
+
+.container5{
+    padding-bottom: 10%;
+}
+.bg-image{
+    background-image: url("https://about.fb.com/wp-content/uploads/2023/06/Gen-AI-Community-Forum_NC_Header.jpg");
+    height: 650px; 
+    background-size: cover;
+}
+ .research{
+    background-color: white;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 100px;
+    padding: 4%;
+}
+.bar{
+    text-align: center;
+}
+.columns{
+    margin-bottom: 10px;
+}
+.container6{
+    background-color:rgb(175, 198, 213) ;
+    background-size: cover;
+    padding: 1%;
+    padding-bottom: 5%;
+}
+.upcoming-events{
+    background-color: white;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 100px;
+    padding: 0%;
+}
+
+.health-care{
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-align: center;
+    padding: 14%;
+    padding-top: 0%;
+    padding-bottom: 5%;
+}
+
+.bg-image2{ 
+    background-image: url("https://www.tum.de/fileadmin/_processed_/9/3/csm_20221014_Bild_Internationale_Studierende_AE_KB_063_3cc75813d8.jpg");
+    background-size: cover;
+    height: 750px;
+}
+.campus-life{
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-align: center;
+    padding: 14%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.athletics{
+    background-color:rgb(175, 198, 213);
+    font-size: 20px;
+    text-align: center;
+    padding: 14%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.admission{
+    background-color: white;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 100px;
+    padding: 4%;
+}
+.bg-image3{ 
+    background-image: url("https://www.uwinnipeg.ca/_files/images/students-on-steps.jpg");
+    background-size:cover;
+    height: 600px;
+}
+.para-1{
+    font-size:large;
+    padding-top: 3%;
+    text-align: left;
+}
+.para-2{
+    text-align: left;
+    padding-top: 0%;
+    font-size:smaller;
+}
+.bg-image4{
+    background-image: url("https://wallpapers.com/images/featured/mountain-landscape-background-rg7kvv47l0ovwv5y.jpg");
+    background-size:cover;
+    height: 600px;
+}
+.container12{
+    background-color:rgb(175, 198, 213) ;
+}
+.image5{
+    margin-left: 70%;
+}
+.container14{
+    background-color:rgb(175, 198, 213) ;
+}
+.logo2{
+    margin-left: 20%;
+}
+
+
